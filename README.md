@@ -32,13 +32,13 @@ I liked the idea because it combines machine learning, NLP, and real-world utili
 1. Clone the repository:
 
    ```bash
-   git clone 'https://git.infotech.monash.edu/fit2107UG/2025s2/mdig0003/-/tree/412f5ed7605d7efafe1e767ae47934b2d47b7f09/Final-Project-Folder'
+   git clone 'https://github.com/mdg888/Natural-Language-Processor.git'
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd src
+   cd Natural-Language-Processor
    ```
 3. Install required packages:
 
@@ -60,3 +60,4 @@ I liked the idea because it combines machine learning, NLP, and real-world utili
 * Make sure your dataset is in the `data/` folder.
 * You can adjust preprocessing steps in `model.py` for better performance.
 * If you have a new dataset, train the model first with model.train_model -> select preprocessing strategy (follow on screen instructions) and wait for it to complete running instructions.
+
